@@ -1,9 +1,10 @@
 public class Sum {
-	
-	
-		Integer a=9;
-		Integer b=7;
-		return a+b;
-	
-
+ 
+    public static void main(String[] args)
+    {
+        int a = 62;
+        int b = 18;
+        
+        System.out.println("The sum is =" + Integer.sum(a, b));
+    }
 }
