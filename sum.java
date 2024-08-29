@@ -1,5 +1,3 @@
-package com.verizon;
-
 public class Sum {
 	
 	
